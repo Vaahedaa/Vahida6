@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vahida6
 - 👀 I’m interested in machine learning,neural networks and computer vision
 - 🌱 I’m currently learning data science concepts
-- 💞️ I’m looking to collaborate on Data Science project
+- 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me ..Please send DM to my email id vahida.sk@gmail.com 
 
 <!---
