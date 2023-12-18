@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vahida6
+- 👋 Hi, I’m @Vaaheda
 - 👀 I’m interested in machine learning,neural networks and computer vision
 - 🌱 I’m currently learning data science concepts
 - 💞️ I’m looking to collaborate on Data Science projects
